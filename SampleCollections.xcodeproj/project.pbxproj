@@ -16,6 +16,7 @@
 		025DDDFE2467D4CA00EF3902 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 025DDDFC2467D4CA00EF3902 /* LaunchScreen.storyboard */; };
 		025DDE092467D4CA00EF3902 /* SampleCollectionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DDE082467D4CA00EF3902 /* SampleCollectionsTests.swift */; };
 		025DDE142467D4CA00EF3902 /* SampleCollectionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025DDE132467D4CA00EF3902 /* SampleCollectionsUITests.swift */; };
+		025DDE222467D61900EF3902 /* FirstViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 025DDE212467D61900EF3902 /* FirstViewController.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		025DDE0F2467D4CA00EF3902 /* SampleCollectionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleCollectionsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		025DDE132467D4CA00EF3902 /* SampleCollectionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCollectionsUITests.swift; sourceTree = "<group>"; };
 		025DDE152467D4CA00EF3902 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		025DDE212467D61900EF3902 /* FirstViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = FirstViewController.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				025DDDFA2467D4CA00EF3902 /* Assets.xcassets */,
 				025DDDFC2467D4CA00EF3902 /* LaunchScreen.storyboard */,
 				025DDDFF2467D4CA00EF3902 /* Info.plist */,
+				025DDE212467D61900EF3902 /* FirstViewController.storyboard */,
 			);
 			path = SampleCollections;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				025DDE222467D61900EF3902 /* FirstViewController.storyboard in Resources */,
 				025DDDFE2467D4CA00EF3902 /* LaunchScreen.storyboard in Resources */,
 				025DDDFB2467D4CA00EF3902 /* Assets.xcassets in Resources */,
 				025DDDF92467D4C800EF3902 /* Main.storyboard in Resources */,
